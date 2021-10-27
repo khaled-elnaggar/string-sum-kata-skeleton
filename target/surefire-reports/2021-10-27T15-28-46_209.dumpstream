@@ -1,4 +1,0 @@
-# Created at 2021-10-27T15:28:46.809
-Boot Manifest-JAR contains absolute paths in classpath 'E:\Khalid\CS\SWE\books-code\string-sum-kata2\target\test-classes'
-Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
-
